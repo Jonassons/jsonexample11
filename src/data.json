@@ -1,0 +1,22 @@
+{
+  "p1":{
+    "name":"Albin",
+    "age":23,
+    "color":"green",
+    "data":[1,2,3,4,5]
+
+
+
+
+  },
+  "p2":{
+    "name":"adam",
+    "age":26,
+    "color":"blue",
+    "data":["a", "b", "c", "d", "e"]
+  }
+
+
+
+
+}
