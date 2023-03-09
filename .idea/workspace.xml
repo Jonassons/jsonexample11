@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9e8933d-237b-4321-8753-a29deff0b7ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsonexample11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jsonexample11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9e8933d-237b-4321-8753-a29deff0b7ea" name="Changes" comment="Skapat json object, skrivt och hämtat data via den" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +41,17 @@
       <option name="presentableId" value="Default" />
       <updated>1678351557156</updated>
     </task>
+    <task id="LOCAL−00001" summary="Skapat json object, skrivt och hämtat data via den">
+      <created>1678354050922</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1678354050922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Skapat json object, skrivt och hämtat data via den" />
+    <option name="LAST_COMMIT_MESSAGE" value="Skapat json object, skrivt och hämtat data via den" />
   </component>
 </project>
